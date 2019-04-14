@@ -185,6 +185,7 @@ footer p
 #seemorebutton .arrow 
 {
     text-align: center;
+    font-family: 'Arial', sans-serif;
     margin: auto;
     font-size: 30px;
     min-width: 1.5em;
